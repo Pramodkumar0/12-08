@@ -1,0 +1,21 @@
+.c{
+    width: 100px;
+    height: 20px;
+    background-color: black;
+    color: white;
+}
+.p{
+    width: 100px;
+    height: 20px;
+    background-color: rebeccapurple;
+}
+.m{
+    width: 100px;
+    height: 20px;
+    background-color: brown;
+}
+.b{
+    width: 100px;
+    height: 20px;
+    background-color: red;
+}
